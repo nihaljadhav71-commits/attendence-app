@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Head from 'next/head';
-import { DashboardLayout } from './dashboard'; // Reusing the layout from dashboard
+import { DashboardLayout } from './dashboard'; // Reusing the layout from DashboardLayout
 
 // Dummy student data
 const dummyStudents = [
